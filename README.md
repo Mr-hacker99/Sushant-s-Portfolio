@@ -1,2 +1,2 @@
 # Sushant-s-Portfolio
-Prototypr Portfolio Made using Html, Css ,Javascript
+Prototype Portfolio Made using Html, Css ,Javascript
